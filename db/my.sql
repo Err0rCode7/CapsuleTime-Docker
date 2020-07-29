@@ -12,7 +12,7 @@ SET character_set_client = utf8mb4;
 -- Database: `capsule_time`
 --
 
-CREATE DATABASE capsule_time IF NOT EXISTS capsule_time;
+CREATE DATABASE IF NOT EXISTS capsule_time;
 
 USE capsule_time;
 

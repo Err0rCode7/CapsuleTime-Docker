@@ -1,5 +1,5 @@
-# CapsuleTime-RestAPI-Docker
-CapsuleTime - RestAPI with Docker
+# CapsuleTime-Docker
+CapsuleTime Server with Docker
 
 ## Requirements
 

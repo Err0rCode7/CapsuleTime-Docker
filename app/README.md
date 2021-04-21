@@ -1,5 +1,5 @@
-# Nodejs Restful-API
-Developing capsuleTime restful api
+# Nodejs Http-API
+Developing capsuleTime Http api
 
 ---
 
